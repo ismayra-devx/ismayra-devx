@@ -66,7 +66,7 @@
 
 ### 📫 Connect With Me
 
-* GitHub: [https://github.com/ismayraparveen2-oss](https://github.com/ismayraparveen2-oss)
+* GitHub: [https://github.com/ismayraparveen2-oss](https://github.com/ismayra-devx)
 
 ---
 
