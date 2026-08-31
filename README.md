@@ -1,6 +1,6 @@
 ## Hi, I'm Ismayra 👋
 
-🎓 **BTech CSE (Artificial Student)** student
+🎓 **BTech CSE (Artificial Intelligence Student)** student
 💡 Aspiring **Software Engineer | AI Engineer | AI Enthusiast**
 🚀 Building skills through projects, consistency, and open learning
 
